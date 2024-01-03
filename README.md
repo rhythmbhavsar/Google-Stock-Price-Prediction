@@ -32,7 +32,7 @@ The Stock Price Prediction using LSTM is a project aimed at forecasting the clos
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/stock-price-prediction.git
+git clone https://github.com/rhythmbhavsar/Google-Stock-Price-Prediction.git
 
 # Navigate to the project directory
 cd stock-price-prediction
